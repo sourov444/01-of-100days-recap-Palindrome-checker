@@ -1,0 +1,51 @@
+textarea {
+    resize: vertical;
+    width: inherit;
+  }
+
+.cover {
+    height: 100vh;
+    margin-top:100px;
+  }
+  
+  .row-margin {
+    margin: 4vh auto;
+  }
+  
+  body {
+    background: #FF9A8B;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(90deg, #FF9A8B 0%, #FF6A88 55%, #FF99AC 100%);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(90deg, #FF9A8B 0%, #FF6A88 55%, #FF99AC 100%);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  }
+  
+  .header {
+    color: #fff;
+  }
+  
+  h1 {
+    font-family: "Pacifico";
+  }
+  
+  .btn-default {
+    background-color: black;
+    color: #fff;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+
+  
+  
+
+.develop p {
+    color: #ffffff;
+}
+
+.develop p > a {
+    color: #090909;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 14px;
+} 
